@@ -2,7 +2,11 @@
   max-width: 150px;
 }
 h1 {
-  color: pink;
+  color: black;
   font-family: "Playfair Display", serif;
   font-weight: bold;
+}
+p {
+  color: black;
+  font-family: "Poppins", serif;
 }
